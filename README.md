@@ -12,7 +12,7 @@ with a pattern of "var1"-"Sub-Dir Name"-"Counter".ext
 ## Rename Files
 Choose Level 1 directory
 File Name Variables: var1
-Counter begins at 0 and counts up per file in each folder, leadings 0's where applicable
+Counter begins at 0 and counts up per file in folder, leadings 0's where applicable
 
 Will rename all files in level 1 directory
 with a pattern of "var1"-"Counter".ext
